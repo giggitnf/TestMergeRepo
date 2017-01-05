@@ -28,12 +28,15 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ShowMessage('FATTO');
+  ShowMessage('FATTO1');
 end;
 
 procedure TForm1.Button2Click(Sender: TObject);
+var
+x: Integer;
 begin
- ShowMEssage('DONE');
+  x := 0;
+ ShowMessage('DONE' + IntToStr(x));
 end;
 
 end.
