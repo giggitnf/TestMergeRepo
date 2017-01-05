@@ -4,7 +4,7 @@ object Form1: TForm1
   Caption = 'GIT'
   ClientHeight = 299
   ClientWidth = 635
-  Color = clBtnFace
+  Color = clYellow
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -20,14 +20,14 @@ object Form1: TForm1
     Height = 39
     Align = alTop
     Alignment = taCenter
-    Caption = 'Test Repo Merged'
+    Caption = 'Test Repo Merged - Ver 1.2'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -32
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    ExplicitWidth = 260
+    ExplicitWidth = 394
   end
   object Button1: TButton
     Left = 232
