@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/03/17 15:00:00.000.341,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/14 13:00:00.000.095,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/14 12:00:00.000.026,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/06 18:00:00.000.601,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/21 14:56:49.000.643,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/05 10:29:35.834,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/05 10:30:53.829,C:\SorgentiGenerali\Delphi XE3\TestMergeRepo\ZSource\Unit1.pas=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/05 10:30:53.829,C:\SorgentiGenerali\Delphi XE3\TestMergeRepo\ZSource\Unit1.dfm=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/01/05 10:31:00.280,C:\SorgentiGenerali\Delphi XE3\TestMergeRepo\ZSource\TestMergeRepo.dproj=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
